@@ -1,0 +1,19 @@
+{
+  "name": "glenrockhay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx parcel --no-hmr '**/*.html'",
+    "build": "npx parcel build '**/*.html' --public-url https://glenrockhay.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aimhigherweb/glenrockhay.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aimhigherweb/glenrockhay/issues"
+  },
+  "homepage": "https://github.com/aimhigherweb/glenrockhay#readme"
+}
